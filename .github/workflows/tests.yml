@@ -1,0 +1,52 @@
+name: Tests
+
+on: [push, pull_request]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Install Dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y \
+          build-essential \
+          cmake \
+          libboost-all-dev \
+          libomp-dev \
+
+    - name: Create Build Directory
+      run: mkdir -p build 
+
+    - name: Configure CMake
+      working-directory: ./build 
+      run: cmake -DCMAKE_BUILD_TYPE=Test ..
+
+    - name: Build 
+      working-directory: ./build
+      run: |
+        cmake --build . --parallel $(nproc)
+
+    - name: Run Tests 
+      working-directory: ./build 
+      run: | 
+        OMP_NUM_THREADS=2 ctest \
+        --output-on-failure \
+        --parallel $(nproc) \
+        --timeout 120 
+
+    - name: Upload Results
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: test-results
+        path: |
+          build/Testing/**/*.xml
+          build/Testing/**/*.log
+
