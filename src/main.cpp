@@ -1,0 +1,340 @@
+#include "datastructures.h"
+#include "distance.h"
+#include "global.h"
+#include "log.h"
+#include "queries.h"
+#include "simplification.h"
+#include <boost/program_options.hpp>
+#include <boost/program_options/detail/parsers.hpp>
+#include <boost/program_options/errors.hpp>
+#include <boost/program_options/options_description.hpp>
+#include <boost/program_options/parsers.hpp>
+#include <boost/program_options/value_semantic.hpp>
+#include <boost/program_options/variables_map.hpp>
+#include <chrono>
+#include <filesystem>
+#include <iostream>
+#include <memory>
+#include <optional>
+#include <string>
+
+namespace po = boost::program_options;
+
+template <Simplification::Simplification _simplification_algorithm(DataStructures::Polyline const &, float, AlgorithmConfiguration &config),
+          Log::Algorithm _algorithm>
+static inline void _flag_action_simplify(po::variables_map &map, char const *flag, AlgorithmConfiguration &config) {
+
+	const auto &args = map[flag].as<std::vector<std::string>>();
+	if (args.size() != 2) {
+		throw po::error("Flag requires exactly two inputs: file and epsilon!");
+	}
+	std::string const &poly_line_file_name = args[0];
+	float const epsilon = std::stof(args[1]);
+  if (std::filesystem::is_directory(poly_line_file_name)) {
+    Log::measurement_directory = poly_line_file_name;
+
+		bool need_to_init_logger = config.logger.has_value();
+    for (auto const &entry : std::filesystem::directory_iterator(poly_line_file_name)) {
+      auto polyline = DataStructures::Polyline::from_file(std::filesystem::path(entry));
+			if (need_to_init_logger) {
+				config.logger.value().begin_data_set(_algorithm, polyline->dimension, polyline->point_count, poly_line_file_name);
+				need_to_init_logger = false;
+			}
+
+      auto simplification_vertices = _simplification_algorithm(*polyline, epsilon, config);
+    }
+
+  } else {
+    auto polypath = std::filesystem::path(poly_line_file_name);
+    auto polyline = DataStructures::Polyline::from_file(polypath);
+		if (config.logger.has_value()) {
+			config.logger.value().begin_data_set(_algorithm, polyline->dimension, polyline->point_count, poly_line_file_name);
+		}
+
+    auto simplification_vertices = _simplification_algorithm(*polyline, epsilon, config);
+		std::cout << "size: " << simplification_vertices->size() << std::endl;
+		for (auto const &v : *simplification_vertices) {
+			std::cout << v << ", ";
+		}
+		std::cout << std::endl;
+  }
+}
+
+
+
+
+static inline void testing(std::string &directory) {
+	std::cout << "dir is " << directory << std::endl;
+  if (std::filesystem::is_directory(directory)) {
+		Log::AlgorithmConfiguration config = {
+			.output_visualization = false,
+			.logger = std::optional<Log::PerformanceLogger>(Log::PerformanceLogger())
+		};
+		
+
+    for (auto const &entry : std::filesystem::directory_iterator(directory)) {
+      auto const polyline = DataStructures::Polyline::from_file(std::filesystem::path(entry));
+			auto const &filename = entry.path().filename().string();
+			std::cout << filename << std::endl;
+
+			config.logger.value().begin_data_set(Log::Algorithm::SIMPLIFICATION_BC_EUCLIDEAN, polyline->dimension, polyline->point_count, filename);
+      Simplification::simplification_bc_euclidean_explicit(*polyline, 2.0f, config);
+      Simplification::simplification_bc_euclidean_explicit(*polyline, 8.0f, config);
+      Simplification::simplification_bc_euclidean_explicit(*polyline, 32.0f, config);
+      Simplification::simplification_bc_euclidean_explicit(*polyline, 128.0f, config);
+
+			config.logger.value().begin_data_set(Log::Algorithm::SIMPLIFICATION_IMAI_IRI_EUCLIDEAN, polyline->dimension, polyline->point_count, filename);
+      Simplification::simplification_imai_iri_euclidean(*polyline, 2.0f, config);
+      Simplification::simplification_imai_iri_euclidean(*polyline, 8.0f, config);
+      Simplification::simplification_imai_iri_euclidean(*polyline, 32.0f, config);
+      Simplification::simplification_imai_iri_euclidean(*polyline, 128.0f, config);
+
+			config.logger.value().begin_data_set(Log::Algorithm::SIMPLIFICATION_GLOBAL_IMAI_IRI_HEURISTIC_EUCLIDEAN, polyline->dimension, polyline->point_count, filename);
+      Simplification::simplification_global_imai_iri_euclidean(*polyline, 2.0f, config);
+      Simplification::simplification_global_imai_iri_euclidean(*polyline, 8.0f, config);
+      Simplification::simplification_global_imai_iri_euclidean(*polyline, 32.0f, config);
+      Simplification::simplification_global_imai_iri_euclidean(*polyline, 128.0f, config);
+    }
+
+		config.logger->emit();
+	} else {
+		std::cout << "No such directory found" << std::endl;
+	}
+}
+
+
+
+
+
+
+static inline void handle_command_line_arguments(int argc, char *argv[]) {
+  po::positional_options_description positional_options;
+  positional_options.add("file", 1);
+	std::string suite_dir;
+
+  po::options_description description("Allowed options");
+  std::string poly_line_file_name;
+
+	Log::AlgorithmConfiguration config = {
+		.output_visualization = false,
+		.logger = std::nullopt,
+	};
+
+  auto options = description.add_options();
+
+  options("help,h", "Show help message");
+
+	options("performance-measure,p", "Measures the performance of the algorithms and outputs it as a file.");
+	options("visualize,v", "Outputs visualization files for the algorithms used.");
+
+  options("se",
+					po::value<std::vector<std::string>>()->multitoken()->value_name("filename epsilon"),
+          "Uses the KLW algorithm to simplify the polyline with "
+          "a distance of at most epsilon using Euclidean distance.");
+
+  options("sei",
+					po::value<std::vector<std::string>>()->multitoken()->value_name("filename epsilon"),
+          "Uses the KLW algorithm to simplify the polyline with "
+          "a distance of at most epsilon using Euclidean distance. Does not "
+          "explicitly compute zeros but only implicitly compare them.");
+
+  options("measure-suite,s",
+					po::value<std::string>(&suite_dir)->value_name("directory"),
+					"Perfomes measurments for all algorithms on the data in a directory."
+					"The directory must have a specific structure.");
+
+  options("measure-suite-bc",
+					po::value<std::string>(&suite_dir)->value_name("directory"),
+					"Perfomes measurements for all BC algorithms on the data in a directory."
+					"The directory must have a specific structure.");
+
+  options("measure-suite-klw",
+					po::value<std::string>(&suite_dir)->value_name("directory"),
+					"Perfomes measurements for all KLW algorithms on the data in a directory."
+					"The directory must have a specific structure.");
+
+  options("measure-suite-local",
+					po::value<std::string>(&suite_dir)->value_name("directory"),
+					"Perfomes measurements for all local algorithms on the data in a directory."
+					"The directory must have a specific structure.");
+
+  options("measure-suite-heuristic",
+					po::value<std::string>(&suite_dir)->value_name("directory"),
+					"Perfomes measurements for all heuristic algorithms on the data in a directory."
+					"The directory must have a specific structure.");
+
+  options("ses",
+					po::value<std::vector<std::string>>()->multitoken()->value_name("filename epsilon"),
+          "Uses the KLW algorithm to simplify the polyline with "
+          "a distance of at most epsilon using Euclidean distance. "
+					"Uses Semiepxlicit computations. The second input is not epsilon but"
+					"epsilon squared!");
+
+  options("sm",
+					po::value<std::vector<std::string>>()->multitoken()->value_name("filename epsilon"),
+          "Uses the KLW algorithm to simplify the polyline with "
+          "a distance of at most epsilon using Manhattan distance.");
+
+  options("sc",
+					po::value<std::vector<std::string>>()->multitoken()->value_name("filename epsilon"),
+          "Uses the KLW algorithm to simplify the polyline with "
+          "a distance of at most epsilon using Chebyshev distance.");
+
+  options("ae",
+					po::value<std::vector<std::string>>()->multitoken()->value_name("filename epsilon"),
+          "Uses the BC algorithm to simplify the polyline with "
+          "a distance of at most epsilon using Euclidean distance.");
+
+  options("aes",
+					po::value<std::vector<std::string>>()->multitoken()->value_name("filename epsilon"),
+          "Uses the BC algorithm to simplify the polyline with "
+          "a distance of at most epsilon using Euclidean distance. " 
+					"Uses semiexplicit computations.");
+
+  options("am",
+					po::value<std::vector<std::string>>()->multitoken()->value_name("filename epsilon"),
+          "Uses the BC algorithm to simplify the polyline with "
+          "a distance of at most epsilon using Manhattan distance.");
+
+  options("ac",
+					po::value<std::vector<std::string>>()->multitoken()->value_name("filename epsilon"),
+          "Uses the BC algorithm to simplify the polyline with "
+          "a distance of at most epsilon using Chebyshev distance.");
+
+  options("ii",
+					po::value<std::vector<std::string>>()->multitoken()->value_name("filename epsilon"),
+          "Uses the Imai and Iri algorithm to (locally) simplify the polyline with "
+          "a distance of at most epsilon using Euclidean distance.");
+
+  options("gii",
+					po::value<std::vector<std::string>>()->multitoken()->value_name("filename epsilon"),
+          "Uses global Imai and Iri heuristic algorithm to simplify the polyline with "
+          "a distance of at most epsilon using Euclidean distance.");
+
+  options("bes",
+					po::value<std::string>(&poly_line_file_name)->value_name("filename"),
+          "Builds the datastructure to allow fast simplification queries"
+					"for Euclidean distance. Simple version (n^4 space consumption).");
+
+  options("qe", 
+					po::value<std::vector<std::string>>()->multitoken()->value_name("filename epsilon"),
+					"Queries for a simplification given a file to the saved datastructure and an epsilon.");
+
+	options("testing", po::value<std::string>(&poly_line_file_name)->value_name("dirname"), "tests ii, gii, ae with epsilon=2,8,32,128 on all files in a given directory");
+
+  po::variables_map map;
+  po::store(po::command_line_parser(argc, argv)
+                .options(description)
+                .positional(positional_options)
+                .run(),
+            map);
+
+  if (map.count("help")) {
+    std::cout << description;
+    exit(0);
+  }
+
+	if (map.count("performance-measure")) {
+		config.logger = std::optional<Log::PerformanceLogger>(Log::PerformanceLogger());
+		std::cout << "test\n";
+	}
+
+	if (map.count("visualize")) {
+		config.output_visualization = true;
+	}
+
+  po::notify(map);
+	if (map.count("testing")) {
+		testing(poly_line_file_name);
+		exit(0);
+	}
+
+
+	if (map.count("measure-suite")) {
+		Log::measure_suite(suite_dir);
+		exit(0);
+	} else if (map.count("measure-suite-bc")) {
+		Log::measure_suite_bc(suite_dir);
+		exit(0);
+	} else if (map.count("measure-suite-klw")) {
+		Log::measure_suite_klw(suite_dir);
+		exit(0);
+	} else if (map.count("measure-suite-local")) {
+		Log::measure_suite_local(suite_dir);
+		exit(0);
+	} else if (map.count("measure-suite-heuristic")) {
+		Log::measure_suite_heuristic(suite_dir);
+		exit(0);
+	}
+
+
+	if(map.count("bes")) {
+		auto path = std::filesystem::path(poly_line_file_name);
+		auto polyline = DataStructures::Polyline::from_file(path);
+
+		if (config.logger.has_value()) {
+			config.logger.value().begin_data_set(Log::Algorithm::BUILD_DS_EUCLIDEAN, polyline->dimension, polyline->point_count, poly_line_file_name);
+		}
+
+		auto ds = build_querier_simple(*polyline, config);
+		auto file_name = path.filename().string();
+		std::filesystem::path save_path = std::filesystem::path("datastructures") / file_name;
+		ds->save_datastructure_to_file(save_path);
+	} else if(map.count("qe")) {
+		const auto &args = map["qe"].as<std::vector<std::string>>();
+		if (args.size() != 2) {
+			throw po::error("Flag requires exactly two inputs: file and epsilon!");
+		}
+		// std::string const &file_name = args[0];
+		// float const epsilon = std::stof(args[1]);
+		// auto querier = SimplificationQuerier::from_file(file_name);
+		// querier->print();
+
+
+	
+	} else if (map.count("se")) {
+    _flag_action_simplify<Simplification::simplification_klw_euclidean,
+                          Log::Algorithm::SIMPLIFICATION_KLW_EUCLIDEAN>(map, "se", config);
+  } else if (map.count("sei")) {
+    _flag_action_simplify<
+        Simplification::simplification_klw_euclidean_implicit,
+        Log::Algorithm::SIMPLIFICATION_KLW_IMPLICIT_EUCLIDEAN>(map, "sei", config);
+  } else if (map.count("ses")) {
+    _flag_action_simplify<
+        Simplification::simplification_klw_euclidean_semiexplicit,
+        Log::Algorithm::SIMPLIFICATION_KLW_SEMIEXPLICIT_EUCLIDEAN>(map, "ses", config);
+  } else if (map.count("sm")) {
+    _flag_action_simplify<Simplification::simplification_klw_manhattan,
+                          Log::Algorithm::SIMPLIFICATION_KLW_MANHATTAN>(map, "sm", config);
+  } else if (map.count("sc")) {
+    _flag_action_simplify<Simplification::simplification_klw_chebyshev,
+                          Log::Algorithm::SIMPLIFICATION_KLW_CHEBYSHEV>(map, "sc", config);
+	}	else if (map.count("ae")) {
+    _flag_action_simplify<Simplification::simplification_bc_euclidean_explicit,
+                          Log::Algorithm::SIMPLIFICATION_BC_EUCLIDEAN>(map, "ae", config);
+	}	else if (map.count("am")) {
+    _flag_action_simplify<Simplification::simplification_bc_manhattan_explicit,
+                          Log::Algorithm::SIMPLIFICATION_BC_MANHATTAN>(map, "am", config);
+	}	else if (map.count("ac")) {
+    _flag_action_simplify<Simplification::simplification_bc_chebyshev_explicit,
+                          Log::Algorithm::SIMPLIFICATION_BC_CHEBYSHEV>(map, "ac", config);
+	}	else if (map.count("ii")) {
+    _flag_action_simplify<Simplification::simplification_imai_iri_euclidean,
+                          Log::Algorithm::SIMPLIFICATION_IMAI_IRI_EUCLIDEAN>(map, "ii", config);
+	}	else if (map.count("gii")) {
+    _flag_action_simplify<Simplification::simplification_global_imai_iri_euclidean,
+                          Log::Algorithm::SIMPLIFICATION_GLOBAL_IMAI_IRI_HEURISTIC_EUCLIDEAN>(map, "gii", config);
+	}	else if (map.count("aes")) {
+    _flag_action_simplify<Simplification::simplification_bc_euclidean_semiexplicit,
+                          Log::Algorithm::SIMPLIFICATION_BC_SEMIEXPLICIT_EUCLIDEAN>(map, "aes", config);
+  }
+
+	if (config.logger.has_value()) {
+		config.logger.value().emit();
+	}
+}
+
+int main(int argc, char *argv[]) {
+  handle_command_line_arguments(argc, argv);
+  return 0;
+}
