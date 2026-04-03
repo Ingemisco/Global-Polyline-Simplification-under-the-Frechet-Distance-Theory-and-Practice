@@ -1,0 +1,2210 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd" creator="SuperCycle" version="3.1.3, build 829">
+  <metadata>
+    <link href="http://www.osborntech.com">
+      <text>Osborn Technologies</text>
+    </link>
+    <time>2025-12-29T10:52:24.759Z</time>
+  </metadata>
+  <trk>
+    <name>29 dic 2025 7:52</name>
+    <type>Biking</type>
+    <trkseg>
+      <trkpt lat="-27.3590131" lon="-70.3339298">
+        <ele>419.1999999999998</ele>
+        <time>2025-12-29T10:52:25.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>0.0</speed>
+            <bearing>332.44</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="-27.3590131" lon="-70.3339298">
+        <ele>419.1999999999998</ele>
+        <time>2025-12-29T10:53:52.811Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>0.0</speed>
+            <bearing>332.44</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3590131" lon="-70.3339298">
+        <ele>419.1999999999998</ele>
+        <time>2025-12-29T10:53:53.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>0.0</speed>
+            <bearing>332.44</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3590131" lon="-70.3339298">
+        <ele>419.1999999999998</ele>
+        <time>2025-12-29T10:53:54.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>0.0</speed>
+            <bearing>332.44</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3590131" lon="-70.3339298">
+        <ele>419.1999999999998</ele>
+        <time>2025-12-29T10:53:55.764Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>0.0</speed>
+            <bearing>332.44</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3590131" lon="-70.3339298">
+        <ele>419.1999999999998</ele>
+        <time>2025-12-29T10:53:56.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>0.0</speed>
+            <bearing>332.44</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3590131" lon="-70.3339298">
+        <ele>419.1999999999998</ele>
+        <time>2025-12-29T10:53:57.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>0.0</speed>
+            <bearing>332.44</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3590131" lon="-70.3339298">
+        <ele>419.1999999999998</ele>
+        <time>2025-12-29T10:53:58.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>0.0</speed>
+            <bearing>332.44</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3590131" lon="-70.3339298">
+        <ele>419.1999999999998</ele>
+        <time>2025-12-29T10:53:59.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>0.0</speed>
+            <bearing>332.44</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3590131" lon="-70.3339298">
+        <ele>419.1999999999998</ele>
+        <time>2025-12-29T10:54:00.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>0.0</speed>
+            <bearing>332.44</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="-27.3591862" lon="-70.3337596">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:02.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>0.0</speed>
+            <bearing>196.38</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3592233" lon="-70.3337727">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:03.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>2.96</speed>
+            <bearing>210.84</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.359254" lon="-70.3337947">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:04.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>3.28</speed>
+            <bearing>212.58</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3592854" lon="-70.3338218">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:05.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>3.65</speed>
+            <bearing>212.77</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3593253" lon="-70.3338744">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:06.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>4.12</speed>
+            <bearing>216.11</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3593665" lon="-70.3339185">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:07.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>4.75</speed>
+            <bearing>219.63</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3594063" lon="-70.3339546">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:08.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.11</speed>
+            <bearing>220.03</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3594499" lon="-70.3339889">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:09.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.41</speed>
+            <bearing>219.43</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.359494" lon="-70.3340239">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:10.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.63</speed>
+            <bearing>217.86</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3595391" lon="-70.3340565">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:11.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.7</speed>
+            <bearing>219.28</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3595847" lon="-70.334092">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:12.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.79</speed>
+            <bearing>217.76</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3596292" lon="-70.3341234">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:13.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.82</speed>
+            <bearing>216.63</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3596756" lon="-70.334153">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:14.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.81</speed>
+            <bearing>218.1</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3597173" lon="-70.3341823">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:15.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.72</speed>
+            <bearing>219.23</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3597605" lon="-70.3342105">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:16.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.68</speed>
+            <bearing>217.66</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3598057" lon="-70.3342362">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:17.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.63</speed>
+            <bearing>216.51</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3598511" lon="-70.3342649">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:18.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.63</speed>
+            <bearing>219.35</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3598927" lon="-70.3342934">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:19.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.59</speed>
+            <bearing>219.07</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3599325" lon="-70.3343272">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:20.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.55</speed>
+            <bearing>217.71</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3599742" lon="-70.3343542">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:21.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.51</speed>
+            <bearing>216.46</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3600191" lon="-70.3343822">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:22.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.47</speed>
+            <bearing>216.09</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3600607" lon="-70.3344102">
+        <ele>419.2</ele>
+        <time>2025-12-29T10:54:23.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.35</speed>
+            <bearing>214.53</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3600987" lon="-70.3344344">
+        <ele>418.43333333333334</ele>
+        <time>2025-12-29T10:54:24.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.2</speed>
+            <bearing>214.03</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3601382" lon="-70.3344564">
+        <ele>417.88571428571424</ele>
+        <time>2025-12-29T10:54:25.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>5.06</speed>
+            <bearing>213.15</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3601773" lon="-70.3344762">
+        <ele>417.2285714285714</ele>
+        <time>2025-12-29T10:54:26.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>4.94</speed>
+            <bearing>211.35</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3602151" lon="-70.3344971">
+        <ele>416.5714285714285</ele>
+        <time>2025-12-29T10:54:27.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>4.84</speed>
+            <bearing>212.54</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3602517" lon="-70.334518">
+        <ele>415.91428571428565</ele>
+        <time>2025-12-29T10:54:28.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>4.65</speed>
+            <bearing>211.93</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3602892" lon="-70.3345384">
+        <ele>415.2571428571428</ele>
+        <time>2025-12-29T10:54:29.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>4.48</speed>
+            <bearing>207.88</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3603237" lon="-70.3345564">
+        <ele>414.59999999999997</ele>
+        <time>2025-12-29T10:54:30.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>4.37</speed>
+            <bearing>208.61</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3603575" lon="-70.3345784">
+        <ele>414.59999999999997</ele>
+        <time>2025-12-29T10:54:31.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>4.39</speed>
+            <bearing>211.99</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.360392" lon="-70.3346001">
+        <ele>414.59999999999997</ele>
+        <time>2025-12-29T10:54:32.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>40</cad>
+            <speed>4.4</speed>
+            <bearing>213.48</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3604083" lon="-70.3346032">
+        <ele>414.59999999999997</ele>
+        <time>2025-12-29T10:54:33.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>40</cad>
+            <speed>3.51</speed>
+            <bearing>167.57</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3604384" lon="-70.3346169">
+        <ele>414.59999999999997</ele>
+        <time>2025-12-29T10:54:34.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>44</cad>
+            <speed>3.37</speed>
+            <bearing>174.93</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.360496" lon="-70.334656">
+        <ele>414.59999999999997</ele>
+        <time>2025-12-29T10:54:35.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>69</cad>
+            <speed>3.97</speed>
+            <bearing>199.57</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3605332" lon="-70.3346713">
+        <ele>414.59999999999997</ele>
+        <time>2025-12-29T10:54:36.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>69</cad>
+            <speed>3.91</speed>
+            <bearing>200.14</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3605723" lon="-70.33469">
+        <ele>414.59999999999997</ele>
+        <time>2025-12-29T10:54:37.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>69</cad>
+            <speed>3.92</speed>
+            <bearing>202.39</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3606137" lon="-70.3347073">
+        <ele>414.59999999999997</ele>
+        <time>2025-12-29T10:54:38.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>69</cad>
+            <speed>4.11</speed>
+            <bearing>198.74</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3606504" lon="-70.3347238">
+        <ele>414.59999999999997</ele>
+        <time>2025-12-29T10:54:39.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>70</cad>
+            <speed>4.13</speed>
+            <bearing>201.19</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3606816" lon="-70.3347436">
+        <ele>414.59999999999997</ele>
+        <time>2025-12-29T10:54:40.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>70</cad>
+            <speed>4.08</speed>
+            <bearing>210.1</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3607207" lon="-70.3347749">
+        <ele>414.59999999999997</ele>
+        <time>2025-12-29T10:54:41.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>70</cad>
+            <speed>4.14</speed>
+            <bearing>209.62</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3607576" lon="-70.334799">
+        <ele>414.6</ele>
+        <time>2025-12-29T10:54:42.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>70</cad>
+            <speed>4.25</speed>
+            <bearing>209.85</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3608052" lon="-70.3348284">
+        <ele>414.6</ele>
+        <time>2025-12-29T10:54:43.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>72</cad>
+            <speed>5.04</speed>
+            <bearing>215.06</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3608497" lon="-70.3348594">
+        <ele>414.6</ele>
+        <time>2025-12-29T10:54:44.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>73</cad>
+            <speed>5.29</speed>
+            <bearing>215.87</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3608914" lon="-70.3348877">
+        <ele>414.6</ele>
+        <time>2025-12-29T10:54:45.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>74</cad>
+            <speed>5.33</speed>
+            <bearing>215.96</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3609334" lon="-70.3349171">
+        <ele>414.6</ele>
+        <time>2025-12-29T10:54:46.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>74</cad>
+            <speed>5.36</speed>
+            <bearing>215.3</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3609754" lon="-70.3349489">
+        <ele>414.6</ele>
+        <time>2025-12-29T10:54:47.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>74</cad>
+            <speed>5.39</speed>
+            <bearing>216.4</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3610187" lon="-70.3349765">
+        <ele>414.6</ele>
+        <time>2025-12-29T10:54:48.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>74</cad>
+            <speed>5.29</speed>
+            <bearing>213.15</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3610618" lon="-70.3350006">
+        <ele>414.6</ele>
+        <time>2025-12-29T10:54:49.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>74</cad>
+            <speed>5.24</speed>
+            <bearing>209.36</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3611062" lon="-70.3350224">
+        <ele>414.6</ele>
+        <time>2025-12-29T10:54:50.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>74</cad>
+            <speed>5.23</speed>
+            <bearing>206.04</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.361147" lon="-70.3350481">
+        <ele>414.6</ele>
+        <time>2025-12-29T10:54:51.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>73</cad>
+            <speed>5.21</speed>
+            <bearing>209.31</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3611858" lon="-70.3350763">
+        <ele>414.6</ele>
+        <time>2025-12-29T10:54:52.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>73</cad>
+            <speed>5.29</speed>
+            <bearing>213.23</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3612221" lon="-70.3351095">
+        <ele>414.6</ele>
+        <time>2025-12-29T10:54:53.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>72</cad>
+            <speed>4.99</speed>
+            <bearing>216.63</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3612571" lon="-70.3351413">
+        <ele>414.6</ele>
+        <time>2025-12-29T10:54:54.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>72</cad>
+            <speed>5.11</speed>
+            <bearing>218.29</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3612941" lon="-70.335171">
+        <ele>414.6</ele>
+        <time>2025-12-29T10:54:55.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>71</cad>
+            <speed>5.11</speed>
+            <bearing>216.79</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3613316" lon="-70.3352">
+        <ele>414.1666666666667</ele>
+        <time>2025-12-29T10:54:56.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>71</cad>
+            <speed>5.06</speed>
+            <bearing>214.79</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3613687" lon="-70.3352277">
+        <ele>413.73333333333335</ele>
+        <time>2025-12-29T10:54:57.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>70</cad>
+            <speed>5.02</speed>
+            <bearing>214.9</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3614054" lon="-70.3352556">
+        <ele>413.3</ele>
+        <time>2025-12-29T10:54:58.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>70</cad>
+            <speed>4.9</speed>
+            <bearing>214.11</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3614366" lon="-70.3352755">
+        <ele>412.975</ele>
+        <time>2025-12-29T10:54:59.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>70</cad>
+            <speed>4.89</speed>
+            <bearing>214.1</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3614491" lon="-70.3352772">
+        <ele>412.74285714285713</ele>
+        <time>2025-12-29T10:55:00.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>70</cad>
+            <speed>3.86</speed>
+            <bearing>190.47</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3614811" lon="-70.3352846">
+        <ele>412.65</ele>
+        <time>2025-12-29T10:55:01.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>70</cad>
+            <speed>3.44</speed>
+            <bearing>193.06</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.361513" lon="-70.3353016">
+        <ele>412.2888888888889</ele>
+        <time>2025-12-29T10:55:02.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>70</cad>
+            <speed>3.09</speed>
+            <bearing>200.37</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3615433" lon="-70.3353185">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:03.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>70</cad>
+            <speed>3.09</speed>
+            <bearing>203.16</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3615568" lon="-70.335342">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:04.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>2.6</speed>
+            <bearing>210.26</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3615717" lon="-70.335358">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:05.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>2.32</speed>
+            <bearing>217.05</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3615852" lon="-70.3353773">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:06.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>2.31</speed>
+            <bearing>219.06</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3616051" lon="-70.3353974">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:07.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>2.56</speed>
+            <bearing>210.49</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.361629" lon="-70.3354141">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:08.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>30</cad>
+            <speed>2.73</speed>
+            <bearing>208.22</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3616708" lon="-70.335436">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:09.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>43</cad>
+            <speed>3.3</speed>
+            <bearing>205.15</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.361709" lon="-70.3354438">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:10.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>62</cad>
+            <speed>3.57</speed>
+            <bearing>201.4</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3617466" lon="-70.335452">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:11.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>3.6</speed>
+            <bearing>200.43</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3617841" lon="-70.3354881">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:12.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>3.95</speed>
+            <bearing>207.9</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3618202" lon="-70.3355121">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:13.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>3.97</speed>
+            <bearing>208.59</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3618621" lon="-70.3355355">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:14.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>4.26</speed>
+            <bearing>204.41</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3619033" lon="-70.3355575">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:15.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>65</cad>
+            <speed>4.32</speed>
+            <bearing>204.88</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3619425" lon="-70.3355837">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:16.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>65</cad>
+            <speed>4.33</speed>
+            <bearing>206.93</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3619805" lon="-70.3356104">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:17.764Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>64</cad>
+            <speed>4.34</speed>
+            <bearing>207.53</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3620184" lon="-70.3356369">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:18.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>64</cad>
+            <speed>4.35</speed>
+            <bearing>208.31</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3620556" lon="-70.3356636">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:19.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>4.3</speed>
+            <bearing>209.98</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3620862" lon="-70.3356965">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:20.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>4.94</speed>
+            <bearing>212.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.362122" lon="-70.3357253">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:21.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>4.94</speed>
+            <bearing>221.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3621569" lon="-70.3357539">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:22.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>4.89</speed>
+            <bearing>214.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3621958" lon="-70.3357778">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:23.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>4.93</speed>
+            <bearing>207.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3622359" lon="-70.335802">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:24.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>67</cad>
+            <speed>4.97</speed>
+            <bearing>207.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3622749" lon="-70.335826">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:25.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>67</cad>
+            <speed>4.91</speed>
+            <bearing>208.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3623126" lon="-70.3358515">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:26.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>68</cad>
+            <speed>4.82</speed>
+            <bearing>210.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3623509" lon="-70.3358768">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:27.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>69</cad>
+            <speed>4.84</speed>
+            <bearing>209.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3623868" lon="-70.3359032">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:28.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>4.78</speed>
+            <bearing>215.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.362422" lon="-70.3359312">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:29.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>68</cad>
+            <speed>4.83</speed>
+            <bearing>215.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3624579" lon="-70.3359586">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:30.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>4.82</speed>
+            <bearing>215.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3624932" lon="-70.3359846">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:31.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>4.63</speed>
+            <bearing>213.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3625289" lon="-70.3360089">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:32.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>65</cad>
+            <speed>4.63</speed>
+            <bearing>210.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3625641" lon="-70.3360329">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:33.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>65</cad>
+            <speed>4.54</speed>
+            <bearing>212.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3625973" lon="-70.3360546">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:34.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>65</cad>
+            <speed>4.16</speed>
+            <bearing>210.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.362632" lon="-70.3360744">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:35.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>64</cad>
+            <speed>4.4</speed>
+            <bearing>207.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3626661" lon="-70.3360946">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:36.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>4.33</speed>
+            <bearing>210.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.362699" lon="-70.3361173">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:37.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>62</cad>
+            <speed>4.33</speed>
+            <bearing>215.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3627313" lon="-70.3361396">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:38.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>61</cad>
+            <speed>4.3</speed>
+            <bearing>214.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3627627" lon="-70.3361629">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:39.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>60</cad>
+            <speed>4.24</speed>
+            <bearing>216.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3627936" lon="-70.3361866">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:40.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>61</cad>
+            <speed>4.18</speed>
+            <bearing>219.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3627936" lon="-70.3361866">
+        <ele>412.0</ele>
+        <time>2025-12-29T10:55:41.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>61</cad>
+            <speed>4.18</speed>
+            <bearing>219.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628311" lon="-70.3362147">
+        <ele>411.9795918367347</ele>
+        <time>2025-12-29T10:55:42.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>61</cad>
+            <speed>2.88</speed>
+            <bearing>210.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628647" lon="-70.3362366">
+        <ele>411.9791666666667</ele>
+        <time>2025-12-29T10:55:43.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>61</cad>
+            <speed>2.42</speed>
+            <bearing>212.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628829" lon="-70.3362463">
+        <ele>411.9782608695652</ele>
+        <time>2025-12-29T10:55:44.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>61</cad>
+            <speed>2.05</speed>
+            <bearing>211.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628829" lon="-70.3362463">
+        <ele>411.9782608695652</ele>
+        <time>2025-12-29T10:55:45.768Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>61</cad>
+            <speed>2.05</speed>
+            <bearing>211.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628974" lon="-70.336253">
+        <ele>411.9574468085106</ele>
+        <time>2025-12-29T10:55:46.764Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>61</cad>
+            <speed>1.55</speed>
+            <bearing>210.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3629084" lon="-70.3362627">
+        <ele>411.9574468085106</ele>
+        <time>2025-12-29T10:55:47.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>0.0</speed>
+            <bearing>211.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="-27.3629171" lon="-70.3363468">
+        <ele>411.9318181818182</ele>
+        <time>2025-12-29T10:56:26.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>2.65</speed>
+            <bearing>265.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3629101" lon="-70.3363735">
+        <ele>411.2</ele>
+        <time>2025-12-29T10:56:27.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>18</cad>
+            <speed>2.64</speed>
+            <bearing>294.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628689" lon="-70.3364334">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:28.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>23</cad>
+            <speed>3.83</speed>
+            <bearing>307.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628463" lon="-70.3364655">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:29.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>52</cad>
+            <speed>3.96</speed>
+            <bearing>297.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628463" lon="-70.3364655">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:30.766Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>52</cad>
+            <speed>3.96</speed>
+            <bearing>297.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628238" lon="-70.3365008">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:31.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>54</cad>
+            <speed>4.2</speed>
+            <bearing>302.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3627772" lon="-70.3365727">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:32.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>56</cad>
+            <speed>4.45</speed>
+            <bearing>307.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3627772" lon="-70.3365727">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:33.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>59</cad>
+            <speed>4.45</speed>
+            <bearing>307.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3627515" lon="-70.3366091">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:34.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>4.5</speed>
+            <bearing>305.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3627027" lon="-70.3366796">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:35.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>67</cad>
+            <speed>4.51</speed>
+            <bearing>304.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3627027" lon="-70.3366796">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:36.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>69</cad>
+            <speed>4.51</speed>
+            <bearing>304.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3626539" lon="-70.3367511">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:37.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>69</cad>
+            <speed>4.66</speed>
+            <bearing>303.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3626314" lon="-70.3367892">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:38.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>65</cad>
+            <speed>4.71</speed>
+            <bearing>302.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3626314" lon="-70.3367892">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:39.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>65</cad>
+            <speed>4.71</speed>
+            <bearing>302.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3625831" lon="-70.3368682">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:40.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>4.93</speed>
+            <bearing>305.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3625831" lon="-70.3368682">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:41.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>64</cad>
+            <speed>4.93</speed>
+            <bearing>305.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3625574" lon="-70.3369076">
+        <ele>411.0</ele>
+        <time>2025-12-29T10:56:42.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>65</cad>
+            <speed>4.84</speed>
+            <bearing>305.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3625315" lon="-70.3369457">
+        <ele>411.0375</ele>
+        <time>2025-12-29T10:56:43.764Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>4.77</speed>
+            <bearing>307.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3624775" lon="-70.3370199">
+        <ele>411.1000000000001</ele>
+        <time>2025-12-29T10:56:44.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>4.7</speed>
+            <bearing>306.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3624775" lon="-70.3370199">
+        <ele>411.1000000000001</ele>
+        <time>2025-12-29T10:56:45.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>4.7</speed>
+            <bearing>306.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3624511" lon="-70.3370562">
+        <ele>411.17142857142863</ele>
+        <time>2025-12-29T10:56:46.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>65</cad>
+            <speed>4.59</speed>
+            <bearing>305.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3624023" lon="-70.3371306">
+        <ele>411.25</ele>
+        <time>2025-12-29T10:56:47.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>65</cad>
+            <speed>4.58</speed>
+            <bearing>296.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3624023" lon="-70.3371306">
+        <ele>411.25</ele>
+        <time>2025-12-29T10:56:48.768Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>65</cad>
+            <speed>4.58</speed>
+            <bearing>296.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3623822" lon="-70.3371714">
+        <ele>411.30000000000007</ele>
+        <time>2025-12-29T10:56:49.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>65</cad>
+            <speed>4.66</speed>
+            <bearing>295.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3623416" lon="-70.3372509">
+        <ele>411.30000000000007</ele>
+        <time>2025-12-29T10:56:50.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>64</cad>
+            <speed>4.49</speed>
+            <bearing>297.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3623416" lon="-70.3372509">
+        <ele>411.30000000000007</ele>
+        <time>2025-12-29T10:56:51.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>64</cad>
+            <speed>4.49</speed>
+            <bearing>297.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3623" lon="-70.337328">
+        <ele>411.30000000000007</ele>
+        <time>2025-12-29T10:56:52.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>64</cad>
+            <speed>4.31</speed>
+            <bearing>299.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3623" lon="-70.337328">
+        <ele>411.30000000000007</ele>
+        <time>2025-12-29T10:56:53.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>4.31</speed>
+            <bearing>299.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3622814" lon="-70.3373635">
+        <ele>411.30000000000007</ele>
+        <time>2025-12-29T10:56:54.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>3.95</speed>
+            <bearing>298.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3622679" lon="-70.3373955">
+        <ele>411.30000000000007</ele>
+        <time>2025-12-29T10:56:55.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>3.45</speed>
+            <bearing>287.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3622705" lon="-70.337423">
+        <ele>411.30000000000007</ele>
+        <time>2025-12-29T10:56:56.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>2.73</speed>
+            <bearing>254.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.362285" lon="-70.3374498">
+        <ele>411.30000000000007</ele>
+        <time>2025-12-29T10:56:57.764Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>3.35</speed>
+            <bearing>234.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3623055" lon="-70.3374768">
+        <ele>411.30000000000007</ele>
+        <time>2025-12-29T10:56:58.770Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>60</cad>
+            <speed>3.53</speed>
+            <bearing>228.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3623589" lon="-70.3375308">
+        <ele>411.3</ele>
+        <time>2025-12-29T10:56:59.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>59</cad>
+            <speed>4.01</speed>
+            <bearing>220.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3623589" lon="-70.3375308">
+        <ele>411.3</ele>
+        <time>2025-12-29T10:57:00.767Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>61</cad>
+            <speed>4.01</speed>
+            <bearing>220.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3623888" lon="-70.3375564">
+        <ele>411.30000000000007</ele>
+        <time>2025-12-29T10:57:01.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>61</cad>
+            <speed>4.16</speed>
+            <bearing>216.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3624553" lon="-70.3376027">
+        <ele>410.98333333333335</ele>
+        <time>2025-12-29T10:57:02.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>4.36</speed>
+            <bearing>206.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3624553" lon="-70.3376027">
+        <ele>410.98333333333335</ele>
+        <time>2025-12-29T10:57:03.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>67</cad>
+            <speed>4.36</speed>
+            <bearing>206.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3625187" lon="-70.3376486">
+        <ele>410.4857142857143</ele>
+        <time>2025-12-29T10:57:04.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>69</cad>
+            <speed>4.25</speed>
+            <bearing>214.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3625475" lon="-70.337675">
+        <ele>410.03333333333336</ele>
+        <time>2025-12-29T10:57:05.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>69</cad>
+            <speed>4.24</speed>
+            <bearing>220.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3625475" lon="-70.337675">
+        <ele>410.03333333333336</ele>
+        <time>2025-12-29T10:57:06.766Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>69</cad>
+            <speed>4.24</speed>
+            <bearing>220.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3626011" lon="-70.3377368">
+        <ele>409.63750000000005</ele>
+        <time>2025-12-29T10:57:07.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>68</cad>
+            <speed>4.3</speed>
+            <bearing>222.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.362634" lon="-70.3377633">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:08.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>66</cad>
+            <speed>4.4</speed>
+            <bearing>216.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.362634" lon="-70.3377633">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:09.768Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>65</cad>
+            <speed>4.4</speed>
+            <bearing>216.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.362667" lon="-70.3377904">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:10.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>4.51</speed>
+            <bearing>219.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3627357" lon="-70.3378477">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:11.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>4.66</speed>
+            <bearing>218.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3627357" lon="-70.3378477">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:12.764Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>4.66</speed>
+            <bearing>218.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628031" lon="-70.3379052">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:13.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>4.67</speed>
+            <bearing>215.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628372" lon="-70.3379313">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:14.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>64</cad>
+            <speed>4.5</speed>
+            <bearing>212.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628687" lon="-70.3379578">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:15.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>64</cad>
+            <speed>4.34</speed>
+            <bearing>214.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628687" lon="-70.3379578">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:16.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>64</cad>
+            <speed>4.34</speed>
+            <bearing>214.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3629275" lon="-70.3380127">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:17.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>4.24</speed>
+            <bearing>228.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3629275" lon="-70.3380127">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:18.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>63</cad>
+            <speed>4.24</speed>
+            <bearing>228.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3629389" lon="-70.3380512">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:19.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>61</cad>
+            <speed>3.97</speed>
+            <bearing>264.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3629691" lon="-70.3381185">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:20.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>60</cad>
+            <speed>3.61</speed>
+            <bearing>223.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3629691" lon="-70.3381185">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:21.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>59</cad>
+            <speed>3.61</speed>
+            <bearing>223.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3629948" lon="-70.338141">
+        <ele>409.40000000000003</ele>
+        <time>2025-12-29T10:57:22.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>59</cad>
+            <speed>3.58</speed>
+            <bearing>214.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.363044" lon="-70.3381817">
+        <ele>409.625</ele>
+        <time>2025-12-29T10:57:23.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>59</cad>
+            <speed>3.37</speed>
+            <bearing>225.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3630689" lon="-70.338201">
+        <ele>409.65714285714284</ele>
+        <time>2025-12-29T10:57:24.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>59</cad>
+            <speed>3.26</speed>
+            <bearing>210.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3630689" lon="-70.338201">
+        <ele>409.65714285714284</ele>
+        <time>2025-12-29T10:57:25.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>59</cad>
+            <speed>3.26</speed>
+            <bearing>210.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.363108" lon="-70.3382385">
+        <ele>409.76000000000005</ele>
+        <time>2025-12-29T10:57:26.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>59</cad>
+            <speed>2.44</speed>
+            <bearing>230.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.363108" lon="-70.3382385">
+        <ele>409.76000000000005</ele>
+        <time>2025-12-29T10:57:27.767Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>59</cad>
+            <speed>2.44</speed>
+            <bearing>230.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3631095" lon="-70.3382872">
+        <ele>409.925</ele>
+        <time>2025-12-29T10:57:28.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>59</cad>
+            <speed>2.94</speed>
+            <bearing>304.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3630944" lon="-70.3383125">
+        <ele>409.925</ele>
+        <time>2025-12-29T10:57:29.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>59</cad>
+            <speed>2.76</speed>
+            <bearing>300.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3630944" lon="-70.3383125">
+        <ele>409.925</ele>
+        <time>2025-12-29T10:57:30.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>2.76</speed>
+            <bearing>300.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3630564" lon="-70.3383686">
+        <ele>410.0</ele>
+        <time>2025-12-29T10:57:31.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>3.37</speed>
+            <bearing>303.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3630384" lon="-70.3384005">
+        <ele>410.0</ele>
+        <time>2025-12-29T10:57:32.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>26</cad>
+            <speed>3.47</speed>
+            <bearing>299.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3630384" lon="-70.3384005">
+        <ele>410.0</ele>
+        <time>2025-12-29T10:57:33.764Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>28</cad>
+            <speed>3.47</speed>
+            <bearing>299.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3630183" lon="-70.3384327">
+        <ele>410.0</ele>
+        <time>2025-12-29T10:57:34.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>47</cad>
+            <speed>3.59</speed>
+            <bearing>302.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3629728" lon="-70.3384935">
+        <ele>410.0</ele>
+        <time>2025-12-29T10:57:35.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>51</cad>
+            <speed>3.75</speed>
+            <bearing>309.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3629728" lon="-70.3384935">
+        <ele>410.0</ele>
+        <time>2025-12-29T10:57:36.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>53</cad>
+            <speed>3.75</speed>
+            <bearing>309.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.362951" lon="-70.3385228">
+        <ele>410.0</ele>
+        <time>2025-12-29T10:57:37.764Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>57</cad>
+            <speed>3.55</speed>
+            <bearing>306.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3629089" lon="-70.3385783">
+        <ele>410.0</ele>
+        <time>2025-12-29T10:57:38.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>57</cad>
+            <speed>3.45</speed>
+            <bearing>304.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3629089" lon="-70.3385783">
+        <ele>410.0</ele>
+        <time>2025-12-29T10:57:39.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>57</cad>
+            <speed>3.45</speed>
+            <bearing>304.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628914" lon="-70.3386058">
+        <ele>410.0</ele>
+        <time>2025-12-29T10:57:40.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>57</cad>
+            <speed>3.32</speed>
+            <bearing>305.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628747" lon="-70.3386315">
+        <ele>409.8888888888889</ele>
+        <time>2025-12-29T10:57:41.768Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>57</cad>
+            <speed>3.14</speed>
+            <bearing>305.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628573" lon="-70.338655">
+        <ele>409.8888888888889</ele>
+        <time>2025-12-29T10:57:42.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>57</cad>
+            <speed>2.98</speed>
+            <bearing>309.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628297" lon="-70.3387022">
+        <ele>409.09090909090907</ele>
+        <time>2025-12-29T10:57:43.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>57</cad>
+            <speed>2.63</speed>
+            <bearing>303.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628297" lon="-70.3387022">
+        <ele>409.09090909090907</ele>
+        <time>2025-12-29T10:57:44.765Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>57</cad>
+            <speed>2.63</speed>
+            <bearing>303.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3628019" lon="-70.3387391">
+        <ele>409.0566037735849</ele>
+        <time>2025-12-29T10:57:45.762Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>2.08</speed>
+            <bearing>310.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3627933" lon="-70.3387527">
+        <ele>409.0566037735849</ele>
+        <time>2025-12-29T10:57:46.763Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>1.67</speed>
+            <bearing>311.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3627933" lon="-70.3387527">
+        <ele>409.0566037735849</ele>
+        <time>2025-12-29T10:57:47.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>1.67</speed>
+            <bearing>311.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-27.3627897" lon="-70.338755">
+        <ele>409.0566037735849</ele>
+        <time>2025-12-29T10:57:48.761Z</time>
+        <extensions>
+          <TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+            <cad>0</cad>
+            <speed>0.0</speed>
+            <bearing>315.0</bearing>
+          </TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

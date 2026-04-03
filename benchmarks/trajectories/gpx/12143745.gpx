@@ -1,0 +1,826 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+ 5.2.13" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net/docs/technical/osmand-file-formats/osmand-gpx" xmlns:gpxtpx="https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2025-12-29_21-14_Mon</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="54.3169977" lon="-130.3230349">
+        <ele>16.7</ele>
+        <time>2025-12-30T05:14:09Z</time>
+        <hdop>3.8</hdop>
+        <extensions>
+          <osmand:speed>0.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169977" lon="-130.3230351">
+        <ele>16.4</ele>
+        <time>2025-12-30T05:14:10Z</time>
+        <hdop>3.8</hdop>
+        <extensions>
+          <osmand:speed>0.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169964" lon="-130.3230348">
+        <ele>14.9</ele>
+        <time>2025-12-30T05:14:11Z</time>
+        <hdop>3.8</hdop>
+        <extensions>
+          <osmand:speed>0.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169919" lon="-130.3230351">
+        <ele>14.9</ele>
+        <time>2025-12-30T05:14:12Z</time>
+        <hdop>3.8</hdop>
+        <extensions>
+          <osmand:speed>0.2</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169821" lon="-130.3230411">
+        <ele>14.9</ele>
+        <time>2025-12-30T05:14:13Z</time>
+        <hdop>3.8</hdop>
+        <extensions>
+          <osmand:speed>0.5</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169711" lon="-130.3230509">
+        <ele>14.9</ele>
+        <time>2025-12-30T05:14:14Z</time>
+        <hdop>3.8</hdop>
+        <extensions>
+          <osmand:speed>0.6</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169599" lon="-130.3230641">
+        <ele>14.9</ele>
+        <time>2025-12-30T05:14:15Z</time>
+        <hdop>3.8</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169495" lon="-130.3230777">
+        <ele>14.9</ele>
+        <time>2025-12-30T05:14:16Z</time>
+        <hdop>3.8</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169425" lon="-130.3230887">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:16Z</time>
+        <hdop>10.8</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169445" lon="-130.3230841">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:17Z</time>
+        <hdop>11.3</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169449" lon="-130.3230824">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:17Z</time>
+        <hdop>10.6</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169449" lon="-130.3230796">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:18Z</time>
+        <hdop>10.1</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169443" lon="-130.3230827">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:18Z</time>
+        <hdop>10</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169418" lon="-130.3230875">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:19Z</time>
+        <hdop>10.2</hdop>
+        <extensions>
+          <osmand:speed>0.8</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169388" lon="-130.3230928">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:20Z</time>
+        <hdop>10.2</hdop>
+        <extensions>
+          <osmand:speed>0.6</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169361" lon="-130.323102">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:20Z</time>
+        <hdop>9.9</hdop>
+        <extensions>
+          <osmand:speed>0.8</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169356" lon="-130.3231077">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:20Z</time>
+        <hdop>9.7</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169311" lon="-130.3231246">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:21Z</time>
+        <hdop>10</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169313" lon="-130.3231237">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:21Z</time>
+        <hdop>9.8</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169309" lon="-130.3231289">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:21Z</time>
+        <hdop>6.8</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169293" lon="-130.3231323">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:22Z</time>
+        <hdop>6.9</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169278" lon="-130.3231388">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:22Z</time>
+        <hdop>7</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169239" lon="-130.323151">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:23Z</time>
+        <hdop>7.1</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169208" lon="-130.3231627">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:23Z</time>
+        <hdop>7.4</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169178" lon="-130.3231716">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:24Z</time>
+        <hdop>7.5</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169163" lon="-130.3231779">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:24Z</time>
+        <hdop>7.7</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169147" lon="-130.3231947">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:25Z</time>
+        <hdop>7.7</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.316914" lon="-130.3232069">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:25Z</time>
+        <hdop>7.8</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169116" lon="-130.323218">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:26Z</time>
+        <hdop>7.8</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169102" lon="-130.3232244">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:26Z</time>
+        <hdop>7.8</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169079" lon="-130.3232353">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:26Z</time>
+        <hdop>7.8</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169061" lon="-130.3232398">
+        <ele>14</ele>
+        <time>2025-12-30T05:14:27Z</time>
+        <hdop>7.8</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3169053" lon="-130.3232415">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:27Z</time>
+        <hdop>7.7</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.316901" lon="-130.3232568">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:27Z</time>
+        <hdop>7.7</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168991" lon="-130.3232638">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:28Z</time>
+        <hdop>7.6</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168985" lon="-130.3232651">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:28Z</time>
+        <hdop>7.5</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168955" lon="-130.3232744">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:28Z</time>
+        <hdop>7.5</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168944" lon="-130.3232795">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:29Z</time>
+        <hdop>7.3</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168924" lon="-130.3232861">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:29Z</time>
+        <hdop>7.3</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168897" lon="-130.3232958">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:30Z</time>
+        <hdop>7.2</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168875" lon="-130.3233074">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:30Z</time>
+        <hdop>7.1</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168867" lon="-130.3233157">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:31Z</time>
+        <hdop>7</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168859" lon="-130.3233207">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:31Z</time>
+        <hdop>6.9</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168827" lon="-130.3233318">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:31Z</time>
+        <hdop>6.7</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168827" lon="-130.3233341">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:32Z</time>
+        <hdop>6.7</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168799" lon="-130.3233421">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:32Z</time>
+        <hdop>6.6</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168772" lon="-130.3233483">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:33Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.31687" lon="-130.323355">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:33Z</time>
+        <hdop>6.4</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168694" lon="-130.32336">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:34Z</time>
+        <hdop>6.2</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168682" lon="-130.323364">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:34Z</time>
+        <hdop>6.2</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168694" lon="-130.3233742">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:35Z</time>
+        <hdop>6.1</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168704" lon="-130.3233758">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:35Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168695" lon="-130.3233848">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:35Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.316873" lon="-130.3233903">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:36Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168743" lon="-130.3233963">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:36Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168748" lon="-130.3234036">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:36Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168781" lon="-130.3234084">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:37Z</time>
+        <hdop>5.9</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168798" lon="-130.3234175">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:37Z</time>
+        <hdop>5.9</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168802" lon="-130.3234248">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:38Z</time>
+        <hdop>5.9</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168818" lon="-130.3234293">
+        <ele>14.7</ele>
+        <time>2025-12-30T05:14:38Z</time>
+        <hdop>5.9</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168764" lon="-130.3234469">
+        <ele>14.7</ele>
+        <time>2025-12-30T05:14:39Z</time>
+        <hdop>5.9</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168741" lon="-130.3234535">
+        <ele>14.7</ele>
+        <time>2025-12-30T05:14:39Z</time>
+        <hdop>5.8</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168723" lon="-130.3234596">
+        <ele>14.7</ele>
+        <time>2025-12-30T05:14:40Z</time>
+        <hdop>5.8</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168736" lon="-130.3234655">
+        <ele>14.7</ele>
+        <time>2025-12-30T05:14:40Z</time>
+        <hdop>5.8</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.316872" lon="-130.3234738">
+        <ele>14.7</ele>
+        <time>2025-12-30T05:14:41Z</time>
+        <hdop>5.8</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168717" lon="-130.3234852">
+        <ele>14.7</ele>
+        <time>2025-12-30T05:14:41Z</time>
+        <hdop>5.8</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168729" lon="-130.3234888">
+        <ele>14.7</ele>
+        <time>2025-12-30T05:14:42Z</time>
+        <hdop>5.8</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168722" lon="-130.3234932">
+        <ele>14.7</ele>
+        <time>2025-12-30T05:14:42Z</time>
+        <hdop>5.8</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168691" lon="-130.3235001">
+        <ele>14.7</ele>
+        <time>2025-12-30T05:14:43Z</time>
+        <hdop>5.9</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168668" lon="-130.3235115">
+        <ele>14.7</ele>
+        <time>2025-12-30T05:14:43Z</time>
+        <hdop>5.9</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168675" lon="-130.3235153">
+        <ele>14.7</ele>
+        <time>2025-12-30T05:14:44Z</time>
+        <hdop>5.9</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168664" lon="-130.3235202">
+        <ele>14.7</ele>
+        <time>2025-12-30T05:14:44Z</time>
+        <hdop>5.9</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168661" lon="-130.3235216">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:44Z</time>
+        <hdop>5.9</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168487" lon="-130.3235255">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:45Z</time>
+        <hdop>5.9</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168455" lon="-130.3235235">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:45Z</time>
+        <hdop>5.9</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168402" lon="-130.3235253">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:45Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168394" lon="-130.3235285">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:46Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <osmand:speed>0.9</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168375" lon="-130.323532">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:46Z</time>
+        <hdop>6.1</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168352" lon="-130.3235391">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:47Z</time>
+        <hdop>6.1</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168346" lon="-130.323541">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:47Z</time>
+        <hdop>6.1</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168316" lon="-130.3235444">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:47Z</time>
+        <hdop>6.2</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168307" lon="-130.3235488">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:48Z</time>
+        <hdop>6.2</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168275" lon="-130.3235525">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:48Z</time>
+        <hdop>6.3</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168235" lon="-130.3235549">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:49Z</time>
+        <hdop>6.4</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168184" lon="-130.323559">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:49Z</time>
+        <hdop>6.4</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168189" lon="-130.3235647">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:50Z</time>
+        <hdop>6.4</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168169" lon="-130.3235689">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:50Z</time>
+        <hdop>6.4</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3168168" lon="-130.3235703">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:50Z</time>
+        <hdop>6.4</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3167943" lon="-130.3235619">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:51Z</time>
+        <hdop>6.3</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.316792" lon="-130.3235591">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:51Z</time>
+        <hdop>6.3</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3167857" lon="-130.3235596">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:51Z</time>
+        <hdop>6.2</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3167853" lon="-130.3235655">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:52Z</time>
+        <hdop>6.2</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.316783" lon="-130.3235695">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:52Z</time>
+        <hdop>6.1</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3167777" lon="-130.323573">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:53Z</time>
+        <hdop>6.1</hdop>
+        <extensions>
+          <osmand:speed>1.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3167746" lon="-130.3235819">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:53Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3167767" lon="-130.3235912">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:54Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3167779" lon="-130.3236146">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:55Z</time>
+        <hdop>5.9</hdop>
+        <extensions>
+          <osmand:speed>1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3167878" lon="-130.3236355">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:56Z</time>
+        <hdop>5.8</hdop>
+        <extensions>
+          <osmand:speed>0.8</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3167908" lon="-130.3236384">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:56Z</time>
+        <hdop>5.7</hdop>
+        <extensions>
+          <osmand:speed>0.7</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3167877" lon="-130.3236391">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:57Z</time>
+        <hdop>5.7</hdop>
+        <extensions>
+          <osmand:speed>0.3</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3167887" lon="-130.3236403">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:58Z</time>
+        <hdop>5.4</hdop>
+        <extensions>
+          <osmand:speed>0.1</osmand:speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="54.3167915" lon="-130.3236419">
+        <ele>14.3</ele>
+        <time>2025-12-30T05:14:59Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <osmand:speed>0</osmand:speed>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
