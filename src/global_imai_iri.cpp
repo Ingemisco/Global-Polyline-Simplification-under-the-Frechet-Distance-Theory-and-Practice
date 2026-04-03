@@ -1,7 +1,14 @@
-#if __has_include(<generator>)
 #include <cassert>
 #include <cstddef>
+
+#if __has_include(<generator>)
 #include <generator>
+#define GENERATOR_INC 1
+#else
+#define GENERATOR_INC 0
+#endif
+
+
 #include <iostream>
 #include <limits>
 #include <memory>
@@ -110,7 +117,13 @@ struct GlobalShortcutGraph final {
 
 	}
 
+
+#if GENERATOR_INC
 	inline std::generator<RangeInterval> proceeding_interval_mappings(Queue<QueueData> &queue, PointIndex shortcut_start, PointIndex shortcut_end) const {
+#else 
+	inline std::vector<RangeInterval> proceeding_interval_mappings(Queue<QueueData> &queue, PointIndex shortcut_start, PointIndex shortcut_end) const {
+		std::vector<RangeInterval> result_vector;
+#endif
 		auto const &start_intervals = this->solution_intervals[shortcut_start].intervals;
 		auto const start_interval_number = start_intervals.size();
 		auto start_interval_index = 0u;
@@ -129,7 +142,12 @@ struct GlobalShortcutGraph final {
 
 			// no end intervals in which a subpolyline can end
 			if (end_interval_index >= end_interval_number) {
+
+#if GENERATOR_INC
 				co_return;
+#else 
+				return result_vector;
+#endif
 			}
 
 			queue.push_front({
@@ -179,7 +197,11 @@ struct GlobalShortcutGraph final {
 							; end_interval_index++) ;
 						if (end_interval_index >= end_interval_number) {
 							// no more intervals to map to
+#if GENERATOR_INC
 							co_return;
+#else 
+							return result_vector;
+#endif
 						} else if(end_intervals[end_interval_index].start_vertex + end_intervals[end_interval_index].rel_interval_start > current_vertex) {
 							continue;
 						}
@@ -198,13 +220,19 @@ struct GlobalShortcutGraph final {
 							end_intervals[end_interval_index].rel_interval_start = start_intervals[i].rel_interval_start;
 						}
 
+#if GENERATOR_INC
 						co_yield RangeInterval(i, end_interval_index, end_interval_index_end);
+#else 
+						result_vector.emplace_back(i, end_interval_index, end_interval_index_end);
+#endif
 					}
 				}
 				current_vertex++;
 			}
 		}
-
+#if !GENERATOR_INC
+		return result_vector;
+#endif
 	}
 
   void print() {
@@ -497,4 +525,3 @@ Simplification simplification_global_imai_iri_euclidean(Polyline const &polyline
 }
 }
 
-#endif

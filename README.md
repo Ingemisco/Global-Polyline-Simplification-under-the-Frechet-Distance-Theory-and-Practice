@@ -9,9 +9,9 @@ Included are:
 - Versions of the cubic algorithm from "Polyline simplification has cubic complexity" by Karl Bringmann and Bhaskar Ray Chaudhury
     - Euclidean, Manhattan, Chebyshev, Semiexplicit Euclidean (no square roots)
 - An Imai-Iri-based global heuristic (proposed in our paper)
-    - Euclidean
+    - Euclidean (other distances might be added later)
 - An algorithm that computes all all global simplifications for a given polyline as well as their epsilon ranges (proposed in our paper)
-    - Euclidean
+    - Euclidean (other distances **won't** be added)
 
 ## Prerequisites
 
@@ -41,7 +41,7 @@ Create a `build` directory and navigate into it:
 > cd build 
 ```
 
-The global Imai Iri heuristic requires coroutines which were introduced in C++ 20 but it seems that they are not in every compiler? If the necessary header is not found, the algorithm will not be available (hopefully, this will be fixed in a later version).
+The global Imai Iri heuristic requires coroutines which were introduced in C++ 20 but it seems that they are not in every compiler? If the necessary header is not found, a different implementation is used which however is less tested.
 
 After that you can build the project in debug mode:
 
