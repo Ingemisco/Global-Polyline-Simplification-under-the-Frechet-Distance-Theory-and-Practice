@@ -91,14 +91,9 @@ static inline void compare_sizes(Polyline const &polyline, float epsilon) {
 	BOOST_CHECK_LE(chebyshev_size_bc, euclidean_size_bc);
 
 
-	// For now, I do not have the mental capacity to remove the generator header from the heuristic and the generator header is not found on the workflow???
-#if __has_include(<generator>)
 	size_t const euclidean_size_heuristic = Simplification::simplification_global_imai_iri_euclidean(polyline, epsilon, config)->size();
 	BOOST_CHECK_LE(euclidean_size_bc, euclidean_size_heuristic);
 	BOOST_CHECK_LE(euclidean_size_heuristic, euclidean_size_local);
-#else 
-	BOOST_CHECK_LE(euclidean_size_bc, euclidean_size_local);
-#endif
 }
 
 // Compares the sizes of the simplifications. It must always hold for a fixed epsilon that the Manhattan is the largest and Chebyshev is the smallest one. 
