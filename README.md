@@ -1,7 +1,7 @@
 # Polyline Simplification Algorithms
 
 ## About
-This contains implementations for various polyline simplification algorithms under the global Fréchet distance.
+This contains implementations for various polyline simplification algorithms under the global Fréchet distance. Some of these algorithms are explained in more detail in ["Global Polyline Simplification Under the Fréchet Distance: Theory and Practice"](https://drops.dagstuhl.de/storage/00lipics/lipics-vol371-sea2026/LIPIcs.SEA.2026.1/LIPIcs.SEA.2026.1.pdf)
 
 Included are:
 - Optimized versions of the algorithm from "On optimal polyline simplification using the Hausdorff and Fréchet distance" by Marc van Kreveld, Maarten Löffler, and Lionov Wiratma.
@@ -33,7 +33,7 @@ To build the project CMake and a C++ Compiler that supports C++23
 (GCC 13+, Clang 16+, ...) are required as well as all additional
 libraries mentioned in [Prerequisites](#prerequisites).
 
-Clone this project and navigate to the `code` directory.
+Clone this project and navigate to the directory.
 Create a `build` directory and navigate into it:
 
 ```bash
